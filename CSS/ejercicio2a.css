@@ -1,0 +1,7 @@
+pais {background-color:black;}
+departamento {background-color:blue; display:block;} 
+cabecera {color:white; font-size:1cm ;display:inline;} 
+habitantes {color:yellow; font-size:1cm;display:inline;}
+altura {background-color:red; color:black;font-size:1cm; display:inline;}
+zipcode {color: white; font-size:1cm;display:inline}
+idioma {color: orange; font-size:1cm; display: inline}

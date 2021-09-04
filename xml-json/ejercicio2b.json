@@ -1,0 +1,43 @@
+{
+	"pais": {
+		"moneda": "dolar",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"transporte": "terrestre y aereo",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "272,554",
+				"altura": "665 MSNM",
+				"zipcode": "54",
+				"idioma": {
+					"primario": "Español",
+					"autoctono": "Latino",
+					"secundario": "Ingles"
+				},
+				"_id": "2",
+				"_nombre": "Santa Ana"
+			},
+			{
+				"cabecera": "San Miguel",
+				"habitantes": "265,921",
+				"altura": "129 MSNM",
+				"zipcode": "3401",
+				"idioma": {
+					"primario": "Español",
+					"autoctono": "Frances",
+					"secundario": "Ingles"
+				},
+				"_id": "3",
+				"_nombre": "SanMiguel"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_moneda": "dolar"
+	}
+}

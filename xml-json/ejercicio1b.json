@@ -1,0 +1,47 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Walter",
+				"apelido": "Romero",
+				"direccion": "12 Av Norte",
+				"telefono": "79999999",
+				"email": "abc@123.com",
+				"website": "guia3.com",
+				"_id": "2",
+				"_fechaingreso": "12/12/2020"
+			},
+			{
+				"nombre": "Jorge",
+				"apelido": "Campos",
+				"direccion": "Centro SS",
+				"telefono": "12345678",
+				"email": "JC@123.com",
+				"website": "JC.com",
+				"documentacion": [
+					{
+						"_tipo": "dui",
+						"__text": "00000000-0"
+					},
+					{
+						"_tipo": "isss",
+						"__text": "123456789"
+					},
+					{
+						"_tipo": "afp",
+						"__text": "123456abc"
+					}
+				],
+				"_id": "3",
+				"_fechaingreso": "04/07/2021"
+			}
+		]
+	}
+}

@@ -1,0 +1,6 @@
+/* ejemplo1.css   RP18066  */
+fichero {background-color:blue;}
+ficha {background-color:blue; display:block;} 
+nombre {color:white; font-size:1cm display:inline;} 
+apellido {color:yellow; font-size:1cm;display:inline;}
+direccion {color:yellow;font-size:1cm; display:inline;}

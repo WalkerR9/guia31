@@ -1,0 +1,8 @@
+fichero {background-color:black;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; font-size:1cm ;display:inline;} 
+apellido {color:yellow; font-size:1cm;display:inline;}
+direccion {color:black;font-size:1cm; display:inline;}
+telefono {color: green; display:inline}
+email {color: white; display: inline}
+website {font-size: 3cm; color: black; display: block; }
